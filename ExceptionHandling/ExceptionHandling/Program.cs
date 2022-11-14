@@ -20,7 +20,7 @@ catch (FormatException exception)
 try
 {
 	Console.WriteLine("Bölünecek sayı:");
-	var bolunecek = Convert.ToInt32(Console.ReadLine());
+	var bolunecek = Convert.ToInt32(args[0]);
 	Console.WriteLine("Bölen Sayı");
 	var bolen = Convert.ToInt32(Console.ReadLine());
 	var sonuc = bolunecek / bolen;
