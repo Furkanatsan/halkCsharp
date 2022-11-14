@@ -2,19 +2,27 @@
 
 Random rastgeleSayiUretici = new Random();
 int uretilenSayi = rastgeleSayiUretici.Next(1, 100);
-Console.WriteLine("Tutulan sayıyı tahmin edin");
-var tahmin = int.Parse(Console.ReadLine());
-if (uretilenSayi > tahmin)
+bool oyuncuBildiMi = false;
+
+while (!oyuncuBildiMi)
 {
-    Console.WriteLine($"üretilen sayı, {tahmin} sayısından büyük....");
-}
-else if (uretilenSayi < tahmin)
-{
-    Console.WriteLine($"üretilen sayı, {tahmin} sayısından küçük....");
+    Console.WriteLine("Tutulan sayıyı tahmin edin");
+    var tahmin = int.Parse(Console.ReadLine());
+    if (uretilenSayi > tahmin)
+    {
+        Console.WriteLine($"üretilen sayı, {tahmin} sayısından büyük....");
+    }
+    else if (uretilenSayi < tahmin)
+    {
+        Console.WriteLine($"üretilen sayı, {tahmin} sayısından küçük....");
+
+    }
+    else
+    {
+        oyuncuBildiMi = true;
+        Console.WriteLine("Bildiniz!");
+    }
 
 }
-else
-{
-    Console.WriteLine("Bildiniz!");
-}
+
 
