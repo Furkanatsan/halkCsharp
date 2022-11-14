@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\bin\Debug\net6.0\IntroduceCSharp.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\bin\Debug\net6.0\IntroduceCSharp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\bin\Debug\net6.0\IntroduceCSharp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\bin\Debug\net6.0\IntroduceCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\bin\Debug\net6.0\IntroduceCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\refint\IntroduceCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\IntroduceCSharp.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceCSharp\IntroduceCSharp\obj\Debug\net6.0\ref\IntroduceCSharp.dll
