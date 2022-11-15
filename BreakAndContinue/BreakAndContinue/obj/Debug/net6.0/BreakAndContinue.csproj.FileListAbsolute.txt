@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\refint\BreakAndContinue.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\ref\BreakAndContinue.dll
