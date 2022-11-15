@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\bin\Debug\net6.0\foreachLoop.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\bin\Debug\net6.0\foreachLoop.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\bin\Debug\net6.0\foreachLoop.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\bin\Debug\net6.0\foreachLoop.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\bin\Debug\net6.0\foreachLoop.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\refint\foreachLoop.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\foreachLoop.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\foreachLoop\foreachLoop\obj\Debug\net6.0\ref\foreachLoop.dll
