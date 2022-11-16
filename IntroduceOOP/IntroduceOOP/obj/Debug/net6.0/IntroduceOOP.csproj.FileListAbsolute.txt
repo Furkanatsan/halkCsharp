@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\bin\Debug\net6.0\IntroduceOOP.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\bin\Debug\net6.0\IntroduceOOP.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\bin\Debug\net6.0\IntroduceOOP.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\bin\Debug\net6.0\IntroduceOOP.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\bin\Debug\net6.0\IntroduceOOP.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\refint\IntroduceOOP.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\IntroduceOOP.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\IntroduceOOP\IntroduceOOP\obj\Debug\net6.0\ref\IntroduceOOP.dll

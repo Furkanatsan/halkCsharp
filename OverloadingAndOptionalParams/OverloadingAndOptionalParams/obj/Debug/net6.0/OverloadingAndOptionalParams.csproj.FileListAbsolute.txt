@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\bin\Debug\net6.0\OverloadingAndOptionalParams.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\bin\Debug\net6.0\OverloadingAndOptionalParams.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\bin\Debug\net6.0\OverloadingAndOptionalParams.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\bin\Debug\net6.0\OverloadingAndOptionalParams.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\bin\Debug\net6.0\OverloadingAndOptionalParams.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\refint\OverloadingAndOptionalParams.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\OverloadingAndOptionalParams.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\OverloadingAndOptionalParams\OverloadingAndOptionalParams\obj\Debug\net6.0\ref\OverloadingAndOptionalParams.dll
