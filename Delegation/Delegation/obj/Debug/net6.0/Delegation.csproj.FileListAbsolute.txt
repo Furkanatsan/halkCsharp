@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\bin\Debug\net6.0\Delegation.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\bin\Debug\net6.0\Delegation.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\bin\Debug\net6.0\Delegation.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\bin\Debug\net6.0\Delegation.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\bin\Debug\net6.0\Delegation.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\refint\Delegation.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\Delegation.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\Delegation\Delegation\obj\Debug\net6.0\ref\Delegation.dll
