@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\bin\Debug\net6.0\DictionaryInCSharp.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\bin\Debug\net6.0\DictionaryInCSharp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\bin\Debug\net6.0\DictionaryInCSharp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\bin\Debug\net6.0\DictionaryInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\bin\Debug\net6.0\DictionaryInCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\refint\DictionaryInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\DictionaryInCSharp.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\DictionaryInCSharp\DictionaryInCSharp\obj\Debug\net6.0\ref\DictionaryInCSharp.dll
