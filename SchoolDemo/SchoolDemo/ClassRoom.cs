@@ -16,6 +16,8 @@
 
         }
 
+        public List<Student> GetStudents() => students;
+
         public int StudentsCount { get => students.Count; }
 
         public Instructor MasterInstructor { get; set; }
