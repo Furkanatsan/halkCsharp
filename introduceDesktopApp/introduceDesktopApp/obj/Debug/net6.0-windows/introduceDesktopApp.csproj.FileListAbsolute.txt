@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\bin\Debug\net6.0-windows\introduceDesktopApp.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\bin\Debug\net6.0-windows\introduceDesktopApp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\bin\Debug\net6.0-windows\introduceDesktopApp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\bin\Debug\net6.0-windows\introduceDesktopApp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\bin\Debug\net6.0-windows\introduceDesktopApp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\refint\introduceDesktopApp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\introduceDesktopApp.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\C# Language\introduceDesktopApp\introduceDesktopApp\obj\Debug\net6.0-windows\ref\introduceDesktopApp.dll
